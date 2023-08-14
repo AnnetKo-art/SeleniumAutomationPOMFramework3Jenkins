@@ -1,0 +1,420 @@
+20230602 10:08:42 INFO  [main] base.BaseTest BaseTest.java107 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:08:42 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230602 10:08:43 INFO  [main] base.BaseTest BaseTest.java88 - pass:username  element cleared
+20230602 10:08:43 INFO  [main] base.BaseTest BaseTest.java79 - Pass:username is entered to the username filed
+20230602 10:08:43 INFO  [main] base.BaseTest BaseTest.java88 - pass:password  element cleared
+20230602 10:08:44 INFO  [main] base.BaseTest BaseTest.java79 - Pass:password is entered to the username filed
+20230602 10:08:44 INFO  [main] base.BaseTest BaseTest.java98 - pass:login button element clicked
+20230602 10:15:17 INFO  [main] base.BaseTest BaseTest.java109 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:15:22 INFO  [main] base.BaseTest BaseTest.java90 - pass:username  element cleared
+20230602 10:15:22 INFO  [main] base.BaseTest BaseTest.java81 - Pass:username is entered to the username filed
+20230602 10:15:23 INFO  [main] base.BaseTest BaseTest.java90 - pass:password  element cleared
+20230602 10:15:24 INFO  [main] base.BaseTest BaseTest.java81 - Pass:password is entered to the username filed
+20230602 10:15:25 INFO  [main] base.BaseTest BaseTest.java100 - pass:login button element clicked
+20230602 10:15:40 INFO  [main] base.BaseTest BaseTest.java109 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:15:40 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230602 10:15:41 INFO  [main] base.BaseTest BaseTest.java90 - pass:username  element cleared
+20230602 10:15:42 INFO  [main] base.BaseTest BaseTest.java81 - Pass:username is entered to the username filed
+20230602 10:15:42 INFO  [main] base.BaseTest BaseTest.java90 - pass:password  element cleared
+20230602 10:15:42 INFO  [main] base.BaseTest BaseTest.java81 - Pass:password is entered to the username filed
+20230602 10:15:43 INFO  [main] base.BaseTest BaseTest.java100 - pass:login button element clicked
+20230602 10:20:01 INFO  [main] base.BaseTest BaseTest.java110 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:20:01 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230602 10:20:03 INFO  [main] base.BaseTest BaseTest.java91 - pass:username  element cleared
+20230602 10:20:04 INFO  [main] base.BaseTest BaseTest.java82 - Pass:username is entered to the username filed
+20230602 10:20:04 INFO  [main] base.BaseTest BaseTest.java91 - pass:password  element cleared
+20230602 10:20:05 INFO  [main] base.BaseTest BaseTest.java82 - Pass:password is entered to the username filed
+20230602 10:20:05 INFO  [main] base.BaseTest BaseTest.java101 - pass:login button element clicked
+20230602 10:21:55 INFO  [main] base.BaseTest BaseTest.java110 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:22:00 INFO  [main] base.BaseTest BaseTest.java91 - pass:username  element cleared
+20230602 10:22:00 INFO  [main] base.BaseTest BaseTest.java82 - Pass:username is entered to the username filed
+20230602 10:22:00 INFO  [main] base.BaseTest BaseTest.java91 - pass:password  element cleared
+20230602 10:22:01 INFO  [main] base.BaseTest BaseTest.java82 - Pass:password is entered to the username filed
+20230602 10:22:01 INFO  [main] base.BaseTest BaseTest.java101 - pass:login button element clicked
+20230602 10:22:17 INFO  [main] base.BaseTest BaseTest.java110 - https://qa-tekarch.firebaseapp.comis entered
+20230602 10:22:17 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230602 10:22:19 INFO  [main] base.BaseTest BaseTest.java91 - pass:username  element cleared
+20230602 10:22:19 INFO  [main] base.BaseTest BaseTest.java82 - Pass:username is entered to the username filed
+20230602 10:22:20 INFO  [main] base.BaseTest BaseTest.java91 - pass:password  element cleared
+20230602 10:22:20 INFO  [main] base.BaseTest BaseTest.java82 - Pass:password is entered to the username filed
+20230602 10:22:21 INFO  [main] base.BaseTest BaseTest.java101 - pass:login button element clicked
+20230602 12:54:47 INFO  [main] base.BaseTest BaseTest.java114 - https://qa-tekarch.firebaseapp.comis entered
+20230602 12:54:51 INFO  [main] base.BaseTest BaseTest.java95 - pass:username  element cleared
+20230602 12:54:52 INFO  [main] base.BaseTest BaseTest.java85 - Pass:username is entered to the username filed
+20230602 12:54:52 INFO  [main] base.BaseTest BaseTest.java95 - pass:password  element cleared
+20230602 12:54:52 INFO  [main] base.BaseTest BaseTest.java85 - Pass:password is entered to the username filed
+20230602 12:54:52 INFO  [main] base.BaseTest BaseTest.java105 - pass:login button element clicked
+20230602 12:55:06 INFO  [main] base.BaseTest BaseTest.java114 - https://qa-tekarch.firebaseapp.comis entered
+20230602 12:55:06 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230602 12:55:06 INFO  [main] base.BaseTest BaseTest.java95 - pass:username  element cleared
+20230602 12:55:07 INFO  [main] base.BaseTest BaseTest.java85 - Pass:username is entered to the username filed
+20230602 12:55:07 INFO  [main] base.BaseTest BaseTest.java95 - pass:password  element cleared
+20230602 12:55:07 INFO  [main] base.BaseTest BaseTest.java85 - Pass:password is entered to the username filed
+20230602 12:55:07 INFO  [main] base.BaseTest BaseTest.java105 - pass:login button element clicked
+20230605 07:54:08 INFO  [main] base.BaseTest BaseTest.java114 - https://qa-tekarch.firebaseapp.comis entered
+20230605 07:54:08 INFO  [main] base.BaseTest BaseTest.java95 - pass:usernameEle  element cleared
+20230605 07:54:09 INFO  [main] base.BaseTest BaseTest.java85 - Pass:usernameEle is entered to the username filed
+20230605 09:32:44 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:32:45 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:32:45 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:32:46 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:32:46 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:32:51 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 09:32:51 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 09:33:00 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:33:02 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:33:02 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:33:02 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:33:02 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:33:17 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:33:17 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 09:33:18 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 09:33:18 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 09:33:19 INFO  [main] base.BaseTest BaseTest.java102 - pass:password  element cleared
+20230605 09:33:19 INFO  [main] base.BaseTest BaseTest.java92 - Pass:password is entered to the username filed
+20230605 09:33:19 INFO  [main] base.BaseTest BaseTest.java112 - pass:login button element clicked
+20230605 09:37:02 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:37:04 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:37:04 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:37:05 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:37:05 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:37:10 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 09:37:10 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 09:37:21 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:37:22 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:37:23 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:37:23 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:37:23 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:37:38 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:37:38 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 09:37:40 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 09:37:40 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 09:37:41 INFO  [main] base.BaseTest BaseTest.java102 - pass:password  element cleared
+20230605 09:37:41 INFO  [main] base.BaseTest BaseTest.java92 - Pass:password is entered to the username filed
+20230605 09:37:41 INFO  [main] base.BaseTest BaseTest.java112 - pass:login button element clicked
+20230605 09:50:04 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:50:05 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:50:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:50:06 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:50:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:50:12 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 09:50:12 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 09:50:22 INFO  [main] base.BaseTest BaseTest.java121 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:50:24 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:50:24 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:50:25 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:50:25 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:55:33 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:55:34 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:55:35 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:55:35 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:55:35 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 09:55:40 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 09:55:41 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 09:55:51 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 09:55:53 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 09:55:53 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 09:55:53 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 09:55:53 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:04:55 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:04:56 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:04:56 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:08:23 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:08:25 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:08:25 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:08:25 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:08:25 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:08:31 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 10:08:31 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 10:08:41 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:08:44 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:08:44 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:08:44 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:08:44 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:10:27 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:10:28 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:10:29 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:10:29 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:10:29 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:10:35 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 10:10:35 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 10:10:45 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:10:46 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:10:46 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:10:47 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:10:47 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:12:06 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:12:08 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:12:08 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:12:08 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:12:08 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 10:12:14 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 10:12:14 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 10:12:24 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 10:12:26 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 10:12:26 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 10:12:26 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 10:12:26 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:19:46 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:19:50 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:19:50 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:19:57 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:19:58 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:19:59 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:20:05 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:20:05 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 11:20:06 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 11:20:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 11:24:03 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:24:05 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:24:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:24:06 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:24:07 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:24:12 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 11:24:13 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 11:24:21 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:24:23 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:24:23 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:24:23 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:24:23 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:24:37 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:24:37 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 11:24:38 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 11:24:39 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 11:24:39 INFO  [main] base.BaseTest BaseTest.java102 - pass:password  element cleared
+20230605 11:24:39 INFO  [main] base.BaseTest BaseTest.java92 - Pass:password is entered to the username filed
+20230605 11:24:40 INFO  [main] base.BaseTest BaseTest.java112 - pass:login button element clicked
+20230605 11:32:48 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:32:50 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:32:50 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:32:50 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:32:50 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:32:56 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 11:32:56 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 11:33:03 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:33:05 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:33:05 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:33:05 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:33:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:33:17 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:33:17 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 11:33:18 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 11:33:18 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 11:33:19 INFO  [main] base.BaseTest BaseTest.java102 - pass:password  element cleared
+20230605 11:33:19 INFO  [main] base.BaseTest BaseTest.java92 - Pass:password is entered to the username filed
+20230605 11:33:19 INFO  [main] base.BaseTest BaseTest.java112 - pass:login button element clicked
+20230605 11:35:49 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:35:50 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:35:50 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:35:50 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:35:51 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:35:56 INFO  [main] base.BaseTest BaseTest.java102 - pass:name field  element cleared
+20230605 11:35:56 INFO  [main] base.BaseTest BaseTest.java92 - Pass:name field is entered to the username filed
+20230605 11:36:04 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:36:06 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230605 11:36:06 INFO  [main] base.BaseTest BaseTest.java92 - Pass:usernameEle is entered to the username filed
+20230605 11:36:07 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230605 11:36:07 INFO  [main] base.BaseTest BaseTest.java92 - Pass:passwordEle is entered to the username filed
+20230605 11:36:20 INFO  [main] base.BaseTest BaseTest.java124 - https://qa-tekarch.firebaseapp.comis entered
+20230605 11:36:20 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 11:36:21 INFO  [main] base.BaseTest BaseTest.java102 - pass:username  element cleared
+20230605 11:36:22 INFO  [main] base.BaseTest BaseTest.java92 - Pass:username is entered to the username filed
+20230605 11:36:22 INFO  [main] base.BaseTest BaseTest.java102 - pass:password  element cleared
+20230605 11:36:22 INFO  [main] base.BaseTest BaseTest.java92 - Pass:password is entered to the username filed
+20230605 11:36:23 INFO  [main] base.BaseTest BaseTest.java112 - pass:login button element clicked
+20230605 12:19:02 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:19:04 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:19:04 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:19:04 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:19:04 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:19:09 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230605 12:19:09 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230605 12:19:20 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:19:22 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:19:22 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:19:22 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:19:22 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:19:32 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:19:32 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 12:24:06 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:24:08 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:24:09 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:24:09 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:24:09 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:24:14 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230605 12:24:14 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230605 12:24:19 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:24:21 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:24:21 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:24:21 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:24:21 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:24:31 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:24:31 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 12:39:21 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:39:23 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:39:23 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:39:23 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:39:23 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:39:29 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230605 12:39:29 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230605 12:39:33 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:39:35 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:39:35 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:39:35 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:39:35 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:39:44 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:39:44 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 12:42:27 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:42:29 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:42:29 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:42:29 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:42:29 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:42:34 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230605 12:42:34 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230605 12:42:38 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:42:40 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230605 12:42:41 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230605 12:42:41 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230605 12:42:41 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230605 12:42:51 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230605 12:42:51 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230605 12:42:53 INFO  [main] base.BaseTest BaseTest.java103 - pass:username  element cleared
+20230605 12:42:54 INFO  [main] base.BaseTest BaseTest.java93 - Pass:username is entered to the username filed
+20230605 12:42:54 INFO  [main] base.BaseTest BaseTest.java103 - pass:password  element cleared
+20230605 12:42:54 INFO  [main] base.BaseTest BaseTest.java93 - Pass:password is entered to the username filed
+20230605 12:42:54 INFO  [main] base.BaseTest BaseTest.java113 - pass:login button element clicked
+20230606 07:16:22 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:16:24 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 07:16:24 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 07:16:24 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 07:16:24 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 07:16:30 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230606 07:16:30 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230606 07:16:37 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:16:38 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 07:16:38 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 07:16:38 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 07:16:38 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 07:16:50 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:16:50 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230606 07:16:52 INFO  [main] base.BaseTest BaseTest.java103 - pass:username  element cleared
+20230606 07:16:52 INFO  [main] base.BaseTest BaseTest.java93 - Pass:username is entered to the username filed
+20230606 07:16:52 INFO  [main] base.BaseTest BaseTest.java103 - pass:password  element cleared
+20230606 07:16:52 INFO  [main] base.BaseTest BaseTest.java93 - Pass:password is entered to the username filed
+20230606 07:16:52 INFO  [main] base.BaseTest BaseTest.java113 - pass:login button element clicked
+20230606 07:18:03 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:18:05 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 07:18:05 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 07:18:05 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 07:18:05 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 07:18:10 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230606 07:18:10 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230606 07:18:16 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:18:18 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 07:18:18 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 07:18:18 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 07:18:18 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 07:18:33 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 07:18:33 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230606 07:18:37 INFO  [main] base.BaseTest BaseTest.java103 - pass:username  element cleared
+20230606 07:18:37 INFO  [main] base.BaseTest BaseTest.java93 - Pass:username is entered to the username filed
+20230606 07:18:37 INFO  [main] base.BaseTest BaseTest.java103 - pass:password  element cleared
+20230606 07:18:37 INFO  [main] base.BaseTest BaseTest.java93 - Pass:password is entered to the username filed
+20230606 07:18:37 INFO  [main] base.BaseTest BaseTest.java113 - pass:login button element clicked
+20230606 08:03:22 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 08:03:23 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 08:03:23 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 08:03:23 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 08:03:24 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 08:03:29 INFO  [main] base.BaseTest BaseTest.java103 - pass:name field  element cleared
+20230606 08:03:29 INFO  [main] base.BaseTest BaseTest.java93 - Pass:name field is entered to the username filed
+20230606 08:03:36 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 08:03:38 INFO  [main] base.BaseTest BaseTest.java103 - pass:usernameEle  element cleared
+20230606 08:03:38 INFO  [main] base.BaseTest BaseTest.java93 - Pass:usernameEle is entered to the username filed
+20230606 08:03:38 INFO  [main] base.BaseTest BaseTest.java103 - pass:passwordEle  element cleared
+20230606 08:03:38 INFO  [main] base.BaseTest BaseTest.java93 - Pass:passwordEle is entered to the username filed
+20230606 08:03:50 INFO  [main] base.BaseTest BaseTest.java125 - https://qa-tekarch.firebaseapp.comis entered
+20230606 08:03:50 INFO  [main] tests.AutomationScripts AutomationScripts.java32 - inside the login_to_firebase_testscript test method
+20230606 08:03:50 INFO  [main] base.BaseTest BaseTest.java103 - pass:username  element cleared
+20230606 08:03:51 INFO  [main] base.BaseTest BaseTest.java93 - Pass:username is entered to the username filed
+20230606 08:03:51 INFO  [main] base.BaseTest BaseTest.java103 - pass:password  element cleared
+20230606 08:03:51 INFO  [main] base.BaseTest BaseTest.java93 - Pass:password is entered to the username filed
+20230606 08:03:51 INFO  [main] base.BaseTest BaseTest.java113 - pass:login button element clicked
+20230606 10:38:16 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:38:17 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:44:51 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:44:51 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:48:27 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:48:27 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:51:11 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:51:11 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:53:35 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:53:35 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:54:04 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:54:04 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:55:38 INFO  [main] base.BaseTest BaseTest.java88 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:55:38 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 10:59:28 INFO  [main] base.BaseTest BaseTest.java89 - https://qa-tekarch.firebaseapp.comis entered
+20230606 10:59:28 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 11:02:52 INFO  [main] base.BaseTest BaseTest.java89 - https://qa-tekarch.firebaseapp.comis entered
+20230606 11:02:52 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 11:03:44 INFO  [main] base.BaseTest BaseTest.java89 - https://qa-tekarch.firebaseapp.comis entered
+20230606 11:03:44 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230606 11:08:35 INFO  [main] base.BasePage BasePage.java55 - pass:username field  element cleared
+20230606 11:08:35 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username filed
+20230606 11:08:36 INFO  [main] base.BasePage BasePage.java55 - pass:password field  element cleared
+20230606 11:08:36 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username filed
+20230606 11:08:36 INFO  [main] base.BasePage BasePage.java65 - pass:login button element clicked
+20230606 11:08:36 INFO  [main] base.BasePage BasePage.java90 - stu regi form text web element is not displayed
+20230606 11:10:05 INFO  [main] base.BasePage BasePage.java55 - pass:username field  element cleared
+20230606 11:10:05 INFO  [main] base.BasePage BasePage.java45 - Pass:username field is entered to the username filed
+20230606 11:10:06 INFO  [main] base.BasePage BasePage.java55 - pass:password field  element cleared
+20230606 11:10:06 INFO  [main] base.BasePage BasePage.java45 - Pass:password field is entered to the username filed
+20230606 11:10:06 INFO  [main] base.BasePage BasePage.java65 - pass:login button element clicked
+20230803 15:23:39 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230803 22:07:08 INFO  [main] base.BaseTest BaseTest.java92 - https://qa-tekarch.firebaseapp.comis entered
+20230803 22:07:08 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 19:36:06 INFO  [main] base.BaseTest BaseTest.java92 - https://qa-tekarch.firebaseapp.comis entered
+20230804 19:36:06 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 19:43:59 INFO  [main] base.BaseTest BaseTest.java92 - https://qa-tekarch.firebaseapp.comis entered
+20230804 19:43:59 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 19:54:24 INFO  [main] base.BaseTest BaseTest.java92 - https://qa-tekarch.firebaseapp.comis entered
+20230804 19:54:24 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java73 - pass:username fieldelement cleared
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java61 - Pass:username fieldis entered to the user filed
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java73 - pass:password fieldelement cleared
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java61 - Pass:password fieldis entered to the user filed
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java84 - pass:login buttonelement clicked
+20230804 20:08:02 INFO  [main] base.BasePage BasePage.java109 - stu regi form textweb element is not displayed
+20230804 20:11:06 INFO  [main] base.BasePage BasePage.java73 - pass:username fieldelement cleared
+20230804 20:11:06 INFO  [main] base.BasePage BasePage.java61 - Pass:username fieldis entered to the user filed
+20230804 20:11:06 INFO  [main] base.BasePage BasePage.java73 - pass:password fieldelement cleared
+20230804 20:11:06 INFO  [main] base.BasePage BasePage.java61 - Pass:password fieldis entered to the user filed
+20230804 20:11:06 INFO  [main] base.BasePage BasePage.java84 - pass:login buttonelement clicked
+20230804 21:14:49 INFO  [main] base.BaseTest BaseTest.java93 - https://qa-tekarch.firebaseapp.comis entered
+20230804 21:14:49 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 21:20:46 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 21:26:52 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230804 21:26:52 INFO  [main] base.BasePage BasePage.java75 - pass:username fieldelement cleared
+20230804 21:26:52 INFO  [main] base.BasePage BasePage.java63 - Pass:username fieldis entered to the user filed
+20230804 21:26:52 INFO  [main] base.BasePage BasePage.java75 - pass:password fieldelement cleared
+20230804 21:26:52 INFO  [main] base.BasePage BasePage.java63 - Pass:password fieldis entered to the user filed
+20230804 21:26:52 INFO  [main] base.BasePage BasePage.java86 - pass:login buttonelement clicked
+20230814 09:05:49 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230814 09:05:49 INFO  [main] base.BasePage BasePage.java75 - pass:username fieldelement cleared
+20230814 09:05:49 INFO  [main] base.BasePage BasePage.java63 - Pass:username fieldis entered to the user filed
+20230814 09:05:50 INFO  [main] base.BasePage BasePage.java75 - pass:password fieldelement cleared
+20230814 09:05:50 INFO  [main] base.BasePage BasePage.java63 - Pass:password fieldis entered to the user filed
+20230814 09:05:50 INFO  [main] base.BasePage BasePage.java86 - pass:login buttonelement clicked
+20230814 09:10:08 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230814 09:10:08 INFO  [main] base.BasePage BasePage.java75 - pass:username fieldelement cleared
+20230814 09:10:08 INFO  [main] base.BasePage BasePage.java63 - Pass:username fieldis entered to the user filed
+20230814 09:10:08 INFO  [main] base.BasePage BasePage.java75 - pass:password fieldelement cleared
+20230814 09:10:08 INFO  [main] base.BasePage BasePage.java63 - Pass:password fieldis entered to the user filed
+20230814 09:10:08 INFO  [main] base.BasePage BasePage.java86 - pass:login buttonelement clicked
+20230814 09:13:05 INFO  [main] tests.AutomationScripts AutomationScripts.java34 - inside the login_to_firebase_testscript test method
+20230814 09:13:05 INFO  [main] base.BasePage BasePage.java75 - pass:username fieldelement cleared
+20230814 09:13:05 INFO  [main] base.BasePage BasePage.java63 - Pass:username fieldis entered to the user filed
+20230814 09:13:05 INFO  [main] base.BasePage BasePage.java75 - pass:password fieldelement cleared
+20230814 09:13:05 INFO  [main] base.BasePage BasePage.java63 - Pass:password fieldis entered to the user filed
+20230814 09:13:05 INFO  [main] base.BasePage BasePage.java86 - pass:login buttonelement clicked

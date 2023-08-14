@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T21:26:50 CDT" name="Suite" finished-at="2023-08-04T21:27:23 CDT" duration-ms="32551">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T21:26:50 CDT" name="chromeTest" finished-at="2023-08-04T21:27:23 CDT" duration-ms="32551">
+      <class name="com.automation.tests.AutomationScripts">
+        <test-method is-config="true" signature="setUpForBeforeTest()[pri:0, instance:com.automation.tests.AutomationScripts@2d710f1a]" started-at="2023-08-04T21:26:50 CDT" name="setUpForBeforeTest" finished-at="2023-08-04T21:26:50 CDT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.tests.AutomationScripts@2d710f1a]" started-at="2023-08-04T21:26:50 CDT" name="setUpBeforeTestMethod" finished-at="2023-08-04T21:26:52 CDT" duration-ms="1555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="login_to_firebase_testscript()[pri:0, instance:com.automation.tests.AutomationScripts@2d710f1a]" started-at="2023-08-04T21:26:52 CDT" name="login_to_firebase_testscript" finished-at="2023-08-04T21:27:22 CDT" duration-ms="30445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_to_firebase_testscript -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.tests.AutomationScripts@2d710f1a]" started-at="2023-08-04T21:27:22 CDT" name="tearDownAfterTestMethod" finished-at="2023-08-04T21:27:23 CDT" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.automation.tests.AutomationScripts -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
