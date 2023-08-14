@@ -51,7 +51,7 @@ public class AutomationScripts extends BaseTest{
 		String expectedText="Student Registration Form";
 		HomePage homepage=new HomePage(driver);
 		String actualText=homepage.getTextFromStudentRegistrationFormText();
-		
+		//comment
 		
 		
 		
